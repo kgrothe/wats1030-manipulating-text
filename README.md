@@ -121,7 +121,7 @@ your text.)
 * Play Tetris in Emacs. Add a screenshot of you playing Tetris in Emacs to this repository (possibly using SCP to transfer the file, or uploading the file in another way).
 * How do you turn on line numbering in Vi? Emacs? (Type your answer here.)
 
-To turn on line numbering in Vi --- :set number (:set nonumber to turn off)
+To turn on line numbering in Vi --- :set number (:set nonumber to turn off)  
 To turn on line numbering in Emacs --- M-x linum-mode (turns on if off, and off if on)
 
 * Explore the Emacs file browser mode. Describe how it works here.
